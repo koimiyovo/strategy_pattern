@@ -1,0 +1,11 @@
+D:\CODING\Design_Patterns\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.deps.json
+D:\CODING\Design_Patterns\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.runtimeconfig.json
+D:\CODING\Design_Patterns\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.runtimeconfig.dev.json
+D:\CODING\Design_Patterns\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.dll
+D:\CODING\Design_Patterns\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.pdb
+D:\CODING\Design_Patterns\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.csprojAssemblyReference.cache
+D:\CODING\Design_Patterns\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.csproj.CoreCompileInputs.cache
+D:\CODING\Design_Patterns\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.AssemblyInfoInputs.cache
+D:\CODING\Design_Patterns\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.AssemblyInfo.cs
+D:\CODING\Design_Patterns\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.dll
+D:\CODING\Design_Patterns\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.pdb
